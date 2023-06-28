@@ -2,7 +2,7 @@
 ***Proposal and discussion of the code system for HPS USALI***
 =======================================
    
-## The code is composed of 13 digits:
+## The code is composed of 17 digits:
 
      H 0 0 0 0 - 0 0 0  0  -  0  0  0  0 - 0  0
      1 2 3 4 5 6 7 8 9 10 11 12 13 14 15  16 17
@@ -76,9 +76,9 @@
                 
                  because it is 04 it will appear in the header of all schedules except 0000
 
-##                 So we can define parameters that appear in all schedules
-                     Rooms available
-                     Occupation
-                     ADR
-                     Rooms RevPar
-                     Total RevPar
+##            So we can define parameters that appear in all schedules
+                  Rooms available
+                  Occupation
+                  ADR
+                  Rooms RevPar
+                  Total RevPar
