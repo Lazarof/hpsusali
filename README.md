@@ -4,8 +4,8 @@
    
 ## The code is composed of 13 digits:
 
-     H 0 0 0 0 - 0 0 0  0  -  0  0
-     1 2 3 4 5 6 7 8 9 10 11 12 13
+     H 0 0 0 0 - 0 0 0  0  -  0  0  0  0 - 0  0
+     1 2 3 4 5 6 7 8 9 10 11 12 13 14 15  16 17
     
 ## the digits 2 3 4 5 represent the type of schedule according to usali
 
@@ -50,7 +50,9 @@
         H0100-0206-01 Negotiated R.Revenue
         H0100-0208-01 Reward Redemption
 
-## the digits 12 13 visually define the data type
+##the digits 12 13 14 15 for/from 1C
+
+## the digits 16 17 visually define the data type
 
          00 - an informative line
          01 - a value obtained from the initial data.
