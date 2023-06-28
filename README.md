@@ -50,7 +50,7 @@
         H0100-0206-01 Negotiated R.Revenue
         H0100-0208-01 Reward Redemption
 
-##the digits 12 13 14 15 for/from 1C
+## the digits 12 13 14 15 for/from 1C
 
 ## the digits 16 17 visually define the data type
 
