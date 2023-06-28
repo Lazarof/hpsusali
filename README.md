@@ -43,12 +43,12 @@
          
 ## the digits 7 8 9 10 allow us to create a logical order within the type of schedule
 
-        H0100-0200-00 Transient Rooms Revenue
+        H0100-0200-0000-00 Transient Rooms Revenue
 
-        H0100-0202-01 Retail Room Revenue
-        H0100-0204-01 Discount .Revenue
-        H0100-0206-01 Negotiated R.Revenue
-        H0100-0208-01 Reward Redemption
+        H0100-0202-0000-01 Retail Room Revenue
+        H0100-0204-0000-01 Discount .Revenue
+        H0100-0206-0000-01 Negotiated R.Revenue
+        H0100-0208-0000-01 Reward Redemption
 
 ## the digits 12 13 14 15 for/from 1C
 
@@ -64,15 +64,15 @@
 
  ##          For example, in schedule 0000 we define
 
-                 H0000-0200-04 Rooms Occupied (Sold)
+                 H0000-0200-0000-04 Rooms Occupied (Sold)
 
                  which is equal to
 
-                 H0000-0200-02 Rooms Occupied (Sold)
+                 H0000-0200-0000-02 Rooms Occupied (Sold)
 
                  but with 04,
                 
-                 H0000-0200-04 Rooms Occupied (Sold)
+                 H0000-0200-0000-04 Rooms Occupied (Sold)
                 
                  because it is 04 it will appear in the header of all schedules except 0000
 
